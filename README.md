@@ -1,2 +1,2 @@
-# internet-technologies-1442-abidya
+# internet-technologies-1442-abidiya
 internet technologies course 
